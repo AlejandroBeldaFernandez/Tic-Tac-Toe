@@ -15,7 +15,7 @@ Backend para el juego del Tres en Raya desarrollado en Python utilizando **FastA
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 * **Lenguaje:** Python 3.12
 * **Framework:** FastAPI
@@ -26,7 +26,7 @@ Backend para el juego del Tres en Raya desarrollado en Python utilizando **FastA
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 Prueba Tres en Raya/
@@ -47,7 +47,7 @@ Prueba Tres en Raya/
 
 ---
 
-## ⚙️ Instalación y Configuración
+## Instalación y Configuración
 
 ### 1. Clonar el repositorio y acceder al proyecto
 
